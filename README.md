@@ -63,7 +63,7 @@ rasya-portfolio/
 ├── script.js
 ├── README.md
 │
-└── assets/
+└── 
     │
     ├── profile.jpg
     ├── logo.png
